@@ -3,7 +3,7 @@
 
  <!--Patcher (run "./patcher/patcher.sh" before each compilation)-->
  <!--Use Bacon's patcher script-->
-  <project path="patcher" name="sultanxda/patcher" revision="stable/cm-13.0-bacon" />
+  <project path="patcher" name="Miaou75/patcher" revision="stable/cm-13.0-bacon" />
 
  <!--Repositories to replace-->
   <remove-project name="CyanogenMod/android_hardware_qcom_audio" />
